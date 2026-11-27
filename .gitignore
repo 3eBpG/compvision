@@ -1,0 +1,16 @@
+# Вся папка COLMAP целиком
+colmap/
+
+# Python и виртуальные окружения
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Синтетические демо-сцены скрипта
+demo_data/
+
+# Служебные файлы Windows и редакторов
+Thumbs.db
+.DS_Store
+.vscode/
